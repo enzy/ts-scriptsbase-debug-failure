@@ -1,0 +1,22 @@
+{
+  "name": "ts-scriptsbase-debug-failure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.7.4",
+    "@mangoweb/scripts-base": "0.0.13",
+    "babel-loader": "^8.0.6",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.2",
+    "webpack": "^4.41.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
